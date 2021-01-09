@@ -1,2 +1,2 @@
 # tmdb-cors-proxy
-Cloudflare Worker to handle cors requests to a TMDB wrapper that doesn't implement cors
+[Cloudflare Worker](https://developers.cloudflare.com/workers/) to handle cors requests to a [TMDB wrapper](http://tmdb.apps.quintero.io/) that doesn't implement cors
